@@ -1,0 +1,5 @@
+I created a new file in new branh and add some content in it and then commit it 
+Then i switch to main branch and edited the same file then i commit it and then i tried 
+to merge new branch to main branch
+but i got conflict then i run "git diff " command to check the difference in
+both the file and then i resolved it by selecting the correct changes. 
