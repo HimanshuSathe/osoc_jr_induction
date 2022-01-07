@@ -1,0 +1,30 @@
+commit c7e05c2c37a7137664eb6fddb51da383c088c49f
+Author: 043_HimanshuSathe <himanshusathe2k@gmail.com>
+Date:   Fri Jan 7 16:32:41 2022 +0530
+
+    procedure of merge solve
+
+commit 7ea0084d291057e317286f03b638b241d91131a6
+Merge: f36a93f 6d53962
+Author: 043_HimanshuSathe <himanshusathe2k@gmail.com>
+Date:   Fri Jan 7 16:23:13 2022 +0530
+
+    conflict solved
+
+commit f36a93f6d2069df2180cea2a19d1f0521d50244c
+Author: 043_HimanshuSathe <himanshusathe2k@gmail.com>
+Date:   Fri Jan 7 16:20:28 2022 +0530
+
+    file edited
+
+commit 6d53962eff8b40e5640ec225f0a5aab6448be5e2
+Author: 043_HimanshuSathe <himanshusathe2k@gmail.com>
+Date:   Fri Jan 7 16:17:47 2022 +0530
+
+    file added
+
+commit 84d38b4625e3c648eeaf1bbdc9fd542fa954fdb0
+Author: SHANOOR AHMED <76896805+shanoorahmed@users.noreply.github.com>
+Date:   Mon Jan 3 00:41:26 2022 +0530
+
+    Initial commit
