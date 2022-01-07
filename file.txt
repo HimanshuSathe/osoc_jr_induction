@@ -7,4 +7,4 @@
 7.git show //This command shows the metadata and content changes of the specified commit.
 8.git pull //This command fetches and merges changes on the remote server to our working directory.
 9.git stash //This command temporarily stores all the modified tracked files.
-10.git remote //is used to connect local repository to the remote server
+10.git remote //This command is used to connect local repository to the remote server
