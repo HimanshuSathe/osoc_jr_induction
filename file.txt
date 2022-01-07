@@ -1,0 +1,10 @@
+1.git add file_name  //to add a file
+2.git config    //This command sets the author name and email address.
+3.git diff //This command shows the file differences which are not yet staged.
+4.git reset //This command unstages the file, but it preserves the file contents.
+5.git rm  //This command deletes the file from working directory and stages the deletion.
+6.git log //This command is used to check the commit history.
+7.git show //This command shows the metadata and content changes of the specified commit.
+8.git pull //This command fetches and merges changes on the remote server to our working directory.
+9.git stash //This command temporarily stores all the modified tracked files.
+10.git remote //is used to connect local repository to the remote server
